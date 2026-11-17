@@ -1,0 +1,15 @@
+# Build products
+build/
+*.o
+*.so
+*.a
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# Editors
+.vscode/
+.idea/
+*.swp
